@@ -4,6 +4,10 @@
 
 /* Color of Navbar */
 
+body {
+    background-image: url("bg-image.jpg");
+}
+
 .navcolor {
     background: linear-gradient(purple, blueviolet);
     text-shadow: 0.5px 0.1px #FFEBCD;
